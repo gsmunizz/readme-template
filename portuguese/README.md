@@ -61,7 +61,7 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
 [https://github.com/yourname/github-link](https://github.com/othonalberto/)
 
-## Contributing
+## Contribua com o projeto
 
 1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
